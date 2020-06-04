@@ -1,0 +1,1212 @@
+movieId	title	genres
+0	Toy Story (1995)	Adventure|Animation|Children|Comedy|Fantasy
+1	Jumanji (1995)	Adventure|Children|Fantasy
+2	Grumpier Old Men (1995)	Comedy|Romance
+3	Father of the Bride Part II (1995)	Comedy
+4	Heat (1995)	Action|Crime|Thriller
+5	Sabrina (1995)	Comedy|Romance
+6	GoldenEye (1995)	Action|Adventure|Thriller
+7	American President, The (1995)	Comedy|Drama|Romance
+8	Casino (1995)	Crime|Drama
+9	Sense and Sensibility (1995)	Drama|Romance
+10	Ace Ventura: When Nature Calls (1995)	Comedy
+11	Get Shorty (1995)	Comedy|Crime|Thriller
+12	Copycat (1995)	Crime|Drama|Horror|Mystery|Thriller
+13	Powder (1995)	Drama|Sci-Fi
+14	Leaving Las Vegas (1995)	Drama|Romance
+15	City of Lost Children, The (Cité des enfants perdus, La) (1995)	Adventure|Drama|Fantasy|Mystery|Sci-Fi
+16	Dangerous Minds (1995)	Drama
+17	Twelve Monkeys (a.k.a. 12 Monkeys) (1995)	Mystery|Sci-Fi|Thriller
+18	Babe (1995)	Children|Drama
+19	Dead Man Walking (1995)	Crime|Drama
+20	Clueless (1995)	Comedy|Romance
+21	Mortal Kombat (1995)	Action|Adventure|Fantasy
+22	To Die For (1995)	Comedy|Drama|Thriller
+23	Seven (a.k.a. Se7en) (1995)	Mystery|Thriller
+24	Pocahontas (1995)	Animation|Children|Drama|Musical|Romance
+25	Usual Suspects, The (1995)	Crime|Mystery|Thriller
+26	Mighty Aphrodite (1995)	Comedy|Drama|Romance
+27	Postman, The (Postino, Il) (1994)	Comedy|Drama|Romance
+28	Indian in the Cupboard, The (1995)	Adventure|Children|Fantasy
+29	Mr. Holland's Opus (1995)	Drama
+30	Bio-Dome (1996)	Comedy
+31	From Dusk Till Dawn (1996)	Action|Comedy|Horror|Thriller
+32	Broken Arrow (1996)	Action|Adventure|Thriller
+33	Bottle Rocket (1996)	Adventure|Comedy|Crime|Romance
+34	Happy Gilmore (1996)	Comedy
+35	Bridges of Madison County, The (1995)	Drama|Romance
+36	Muppet Treasure Island (1996)	Adventure|Children|Comedy|Musical
+37	Braveheart (1995)	Action|Drama|War
+38	Taxi Driver (1976)	Crime|Drama|Thriller
+39	Rumble in the Bronx (Hont faan kui) (1995)	Action|Adventure|Comedy|Crime
+40	Down Periscope (1996)	Comedy
+41	Birdcage, The (1996)	Comedy
+42	Bad Boys (1995)	Action|Comedy|Crime|Drama|Thriller
+43	Apollo 13 (1995)	Adventure|Drama|IMAX
+44	Rob Roy (1995)	Action|Drama|Romance|War
+45	Batman Forever (1995)	Action|Adventure|Comedy|Crime
+46	Casper (1995)	Adventure|Children
+47	Congo (1995)	Action|Adventure|Mystery|Sci-Fi
+48	Crimson Tide (1995)	Drama|Thriller|War
+49	Desperado (1995)	Action|Romance|Western
+50	Die Hard: With a Vengeance (1995)	Action|Crime|Thriller
+51	First Knight (1995)	Action|Drama|Romance
+52	Hackers (1995)	Action|Adventure|Crime|Thriller
+53	Johnny Mnemonic (1995)	Action|Sci-Fi|Thriller
+54	Judge Dredd (1995)	Action|Crime|Sci-Fi
+55	Mallrats (1995)	Comedy|Romance
+56	Net, The (1995)	Action|Crime|Thriller
+57	Nine Months (1995)	Comedy|Romance
+58	Showgirls (1995)	Drama
+59	Species (1995)	Horror|Sci-Fi
+60	Strange Days (1995)	Action|Crime|Drama|Mystery|Sci-Fi|Thriller
+61	Under Siege 2: Dark Territory (1995)	Action
+62	Walk in the Clouds, A (1995)	Drama|Romance
+63	Waterworld (1995)	Action|Adventure|Sci-Fi
+64	Before Sunrise (1995)	Drama|Romance
+65	Billy Madison (1995)	Comedy
+66	Clerks (1994)	Comedy
+67	Don Juan DeMarco (1995)	Comedy|Drama|Romance
+68	Disclosure (1994)	Drama|Thriller
+69	Drop Zone (1994)	Action|Thriller
+70	Dolores Claiborne (1995)	Drama|Thriller
+71	Dumb & Dumber (Dumb and Dumber) (1994)	Adventure|Comedy
+72	Ed Wood (1994)	Comedy|Drama
+73	French Kiss (1995)	Action|Comedy|Romance
+74	Forget Paris (1995)	Comedy|Romance
+75	Hoop Dreams (1994)	Documentary
+76	Heavenly Creatures (1994)	Crime|Drama
+77	I.Q. (1994)	Comedy|Romance
+78	Interview with the Vampire: The Vampire Chronicles (1994)	Drama|Horror
+79	Junior (1994)	Comedy|Sci-Fi
+80	Star Wars: Episode IV - A New Hope (1977)	Action|Adventure|Sci-Fi
+81	Little Women (1994)	Drama
+82	Like Water for Chocolate (Como agua para chocolate) (1992)	Drama|Fantasy|Romance
+83	Legends of the Fall (1994)	Drama|Romance|War|Western
+84	Madness of King George, The (1994)	Comedy|Drama
+85	Mary Shelley's Frankenstein (Frankenstein) (1994)	Drama|Horror|Sci-Fi
+86	Milk Money (1994)	Comedy|Romance
+87	Miracle on 34th Street (1994)	Drama
+88	Nell (1994)	Drama
+89	Natural Born Killers (1994)	Action|Crime|Thriller
+90	Outbreak (1995)	Action|Drama|Sci-Fi|Thriller
+91	Léon: The Professional (a.k.a. The Professional) (Léon) (1994)	Action|Crime|Drama|Thriller
+92	Pulp Fiction (1994)	Comedy|Crime|Drama|Thriller
+93	Quiz Show (1994)	Drama
+94	Quick and the Dead, The (1995)	Action|Thriller|Western
+95	Three Colors: Blue (Trois couleurs: Bleu) (1993)	Drama
+96	Specialist, The (1994)	Action|Drama|Thriller
+97	Stargate (1994)	Action|Adventure|Sci-Fi
+98	Santa Clause, The (1994)	Comedy|Drama|Fantasy
+99	Shawshank Redemption, The (1994)	Crime|Drama
+100	Tank Girl (1995)	Action|Comedy|Sci-Fi
+101	Star Trek: Generations (1994)	Adventure|Drama|Sci-Fi
+102	Tommy Boy (1995)	Comedy
+103	What's Eating Gilbert Grape (1993)	Drama
+104	While You Were Sleeping (1995)	Comedy|Romance
+105	Muriel's Wedding (1994)	Comedy
+106	Ace Ventura: Pet Detective (1994)	Comedy
+107	Adventures of Priscilla, Queen of the Desert, The (1994)	Comedy|Drama
+108	Bullets Over Broadway (1994)	Comedy
+109	Clear and Present Danger (1994)	Action|Crime|Drama|Thriller
+110	Client, The (1994)	Drama|Mystery|Thriller
+111	Crow, The (1994)	Action|Crime|Fantasy|Thriller
+112	Flintstones, The (1994)	Children|Comedy|Fantasy
+113	Forrest Gump (1994)	Comedy|Drama|Romance|War
+114	Four Weddings and a Funeral (1994)	Comedy|Romance
+115	Jungle Book, The (1994)	Adventure|Children|Romance
+116	Lion King, The (1994)	Adventure|Animation|Children|Drama|Musical|IMAX
+117	Mask, The (1994)	Action|Comedy|Crime|Fantasy
+118	Maverick (1994)	Adventure|Comedy|Western
+119	Naked Gun 33 1/3: The Final Insult (1994)	Action|Comedy
+120	Paper, The (1994)	Comedy|Drama
+121	Richie Rich (1994)	Children|Comedy
+122	River Wild, The (1994)	Action|Thriller
+123	Speed (1994)	Action|Romance|Thriller
+124	Timecop (1994)	Action|Sci-Fi|Thriller
+125	True Lies (1994)	Action|Adventure|Comedy|Romance|Thriller
+126	Wyatt Earp (1994)	Western
+127	Addams Family Values (1993)	Children|Comedy|Fantasy
+128	Airheads (1994)	Comedy
+129	Beverly Hills Cop III (1994)	Action|Comedy|Crime|Thriller
+130	Carlito's Way (1993)	Crime|Drama
+131	City Slickers II: The Legend of Curly's Gold (1994)	Adventure|Comedy|Western
+132	Cliffhanger (1993)	Action|Adventure|Thriller
+133	Coneheads (1993)	Comedy|Sci-Fi
+134	Dave (1993)	Comedy|Romance
+135	Dazed and Confused (1993)	Comedy
+136	Demolition Man (1993)	Action|Adventure|Sci-Fi
+137	Firm, The (1993)	Drama|Thriller
+138	Free Willy (1993)	Adventure|Children|Drama
+139	Fugitive, The (1993)	Thriller
+140	Hot Shots! Part Deux (1993)	Action|Comedy|War
+141	Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)	Comedy|Romance
+142	Hudsucker Proxy, The (1994)	Comedy
+143	In the Line of Fire (1993)	Action|Thriller
+144	In the Name of the Father (1993)	Drama
+145	Jurassic Park (1993)	Action|Adventure|Sci-Fi|Thriller
+146	Last Action Hero (1993)	Action|Adventure|Comedy|Fantasy
+147	Executive Decision (1996)	Action|Adventure|Thriller
+148	Much Ado About Nothing (1993)	Comedy|Romance
+149	Mrs. Doubtfire (1993)	Comedy|Drama
+150	Philadelphia (1993)	Drama
+151	Piano, The (1993)	Drama|Romance
+152	Remains of the Day, The (1993)	Drama|Romance
+153	RoboCop 3 (1993)	Action|Crime|Drama|Sci-Fi|Thriller
+154	Robin Hood: Men in Tights (1993)	Comedy
+155	Rudy (1993)	Drama
+156	Schindler's List (1993)	Drama|War
+157	Searching for Bobby Fischer (1993)	Drama
+158	Secret Garden, The (1993)	Children|Drama
+159	Sleepless in Seattle (1993)	Comedy|Drama|Romance
+160	Blade Runner (1982)	Action|Sci-Fi|Thriller
+161	So I Married an Axe Murderer (1993)	Comedy|Romance|Thriller
+162	Super Mario Bros. (1993)	Action|Adventure|Children|Comedy|Fantasy|Sci-Fi
+163	Nightmare Before Christmas, The (1993)	Animation|Children|Fantasy|Musical
+164	Three Musketeers, The (1993)	Action|Adventure|Comedy|Romance
+165	Tombstone (1993)	Action|Drama|Western
+166	True Romance (1993)	Crime|Thriller
+167	Welcome to the Dollhouse (1995)	Comedy|Drama
+168	Brady Bunch Movie, The (1995)	Comedy
+169	Home Alone (1990)	Children|Comedy
+170	Ghost (1990)	Comedy|Drama|Fantasy|Romance|Thriller
+171	Aladdin (1992)	Adventure|Animation|Children|Comedy|Musical
+172	Terminator 2: Judgment Day (1991)	Action|Sci-Fi
+173	Dances with Wolves (1990)	Adventure|Drama|Western
+174	Batman (1989)	Action|Crime|Thriller
+175	Silence of the Lambs, The (1991)	Crime|Horror|Thriller
+176	Snow White and the Seven Dwarfs (1937)	Animation|Children|Drama|Fantasy|Musical
+177	Beauty and the Beast (1991)	Animation|Children|Fantasy|Musical|Romance|IMAX
+178	Pinocchio (1940)	Animation|Children|Fantasy|Musical
+179	Pretty Woman (1990)	Comedy|Romance
+180	Fargo (1996)	Comedy|Crime|Drama|Thriller
+181	Heavy Metal (1981)	Action|Adventure|Animation|Horror|Sci-Fi
+182	Aristocats, The (1970)	Animation|Children
+183	Primal Fear (1996)	Crime|Drama|Mystery|Thriller
+184	Sgt. Bilko (1996)	Comedy
+185	Courage Under Fire (1996)	Action|Crime|Drama|War
+186	Mission: Impossible (1996)	Action|Adventure|Mystery|Thriller
+187	Dragonheart (1996)	Action|Adventure|Fantasy
+188	James and the Giant Peach (1996)	Adventure|Animation|Children|Fantasy|Musical
+189	Mystery Science Theater 3000: The Movie (1996)	Comedy|Sci-Fi
+190	Space Jam (1996)	Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi
+191	Truth About Cats & Dogs, The (1996)	Comedy|Romance
+192	Multiplicity (1996)	Comedy
+193	Wallace & Gromit: The Best of Aardman Animation (1996)	Adventure|Animation|Comedy
+194	Craft, The (1996)	Drama|Fantasy|Horror|Thriller
+195	Rock, The (1996)	Action|Adventure|Thriller
+196	Twister (1996)	Action|Adventure|Romance|Thriller
+197	Ghost in the Shell (Kôkaku kidôtai) (1995)	Animation|Sci-Fi
+198	Spy Hard (1996)	Comedy
+199	Wallace & Gromit: A Close Shave (1995)	Animation|Children|Comedy
+200	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	Comedy|War
+201	Striptease (1996)	Comedy|Crime
+202	Trainspotting (1996)	Comedy|Crime|Drama
+203	Independence Day (a.k.a. ID4) (1996)	Action|Adventure|Sci-Fi|Thriller
+204	Hunchback of Notre Dame, The (1996)	Animation|Children|Drama|Musical|Romance
+205	Cable Guy, The (1996)	Comedy|Thriller
+206	Kingpin (1996)	Comedy
+207	Eraser (1996)	Action|Drama|Thriller
+208	Nutty Professor, The (1996)	Comedy|Fantasy|Romance|Sci-Fi
+209	Frighteners, The (1996)	Comedy|Horror|Thriller
+210	Phenomenon (1996)	Drama|Romance
+211	Time to Kill, A (1996)	Drama|Thriller
+212	Ransom (1996)	Crime|Thriller
+213	Matilda (1996)	Children|Comedy|Fantasy
+214	Emma (1996)	Comedy|Drama|Romance
+215	Escape from L.A. (1996)	Action|Adventure|Sci-Fi|Thriller
+216	Tin Cup (1996)	Comedy|Drama|Romance
+217	Godfather, The (1972)	Crime|Drama
+218	Bound (1996)	Crime|Drama|Romance|Thriller
+219	Island of Dr. Moreau, The (1996)	Sci-Fi|Thriller
+220	Philadelphia Story, The (1940)	Comedy|Drama|Romance
+221	Singin' in the Rain (1952)	Comedy|Musical|Romance
+222	Breakfast at Tiffany's (1961)	Drama|Romance
+223	Vertigo (1958)	Drama|Mystery|Romance|Thriller
+224	Rear Window (1954)	Mystery|Thriller
+225	North by Northwest (1959)	Action|Adventure|Mystery|Romance|Thriller
+226	Apartment, The (1960)	Comedy|Drama|Romance
+227	Some Like It Hot (1959)	Comedy|Crime
+228	Casablanca (1942)	Drama|Romance
+229	Maltese Falcon, The (1941)	Film-Noir|Mystery
+230	My Fair Lady (1964)	Comedy|Drama|Musical|Romance
+231	Sabrina (1954)	Comedy|Romance
+232	Roman Holiday (1953)	Comedy|Drama|Romance
+233	Wizard of Oz, The (1939)	Adventure|Children|Fantasy|Musical
+234	Gone with the Wind (1939)	Drama|Romance|War
+235	Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)	Drama|Film-Noir|Romance
+236	Citizen Kane (1941)	Drama|Mystery
+237	2001: A Space Odyssey (1968)	Adventure|Drama|Sci-Fi
+238	All About Eve (1950)	Drama
+239	To Catch a Thief (1955)	Crime|Mystery|Romance|Thriller
+240	It's a Wonderful Life (1946)	Children|Drama|Fantasy|Romance
+241	Night of the Living Dead (1968)	Horror|Sci-Fi|Thriller
+242	African Queen, The (1951)	Adventure|Comedy|Romance|War
+243	Cool Runnings (1993)	Comedy
+244	Angels in the Outfield (1994)	Children|Comedy
+245	Cinderella (1950)	Animation|Children|Fantasy|Musical|Romance
+246	Sword in the Stone, The (1963)	Animation|Children|Fantasy|Musical
+247	Robin Hood: Prince of Thieves (1991)	Adventure|Drama
+248	Mary Poppins (1964)	Children|Comedy|Fantasy|Musical
+249	Dumbo (1941)	Animation|Children|Drama|Musical
+250	Bedknobs and Broomsticks (1971)	Adventure|Children|Musical
+251	Alice in Wonderland (1951)	Adventure|Animation|Children|Fantasy|Musical
+252	Sound of Music, The (1965)	Musical|Romance
+253	Die Hard (1988)	Action|Crime|Thriller
+254	Lawnmower Man, The (1992)	Action|Horror|Sci-Fi|Thriller
+255	That Thing You Do! (1996)	Comedy|Drama
+256	Long Kiss Goodnight, The (1996)	Action|Drama|Thriller
+257	William Shakespeare's Romeo + Juliet (1996)	Drama|Romance
+258	Swingers (1996)	Comedy|Drama
+259	Sleepers (1996)	Thriller
+260	Willy Wonka & the Chocolate Factory (1971)	Children|Comedy|Fantasy|Musical
+261	Sleeper (1973)	Comedy|Sci-Fi
+262	Fish Called Wanda, A (1988)	Comedy|Crime
+263	Monty Python's Life of Brian (1979)	Comedy
+264	Bonnie and Clyde (1967)	Crime|Drama
+265	Dial M for Murder (1954)	Crime|Mystery|Thriller
+266	Dirty Dancing (1987)	Drama|Musical|Romance
+267	Reservoir Dogs (1992)	Crime|Mystery|Thriller
+268	Platoon (1986)	Drama|War
+269	Weekend at Bernie's (1989)	Comedy
+270	Basic Instinct (1992)	Crime|Mystery|Thriller
+271	Doors, The (1991)	Drama
+272	Crying Game, The (1992)	Drama|Romance|Thriller
+273	E.T. the Extra-Terrestrial (1982)	Children|Drama|Sci-Fi
+274	Top Gun (1986)	Action|Romance
+275	People vs. Larry Flynt, The (1996)	Comedy|Drama
+276	Return of the Pink Panther, The (1975)	Comedy|Crime
+277	Abyss, The (1989)	Action|Adventure|Sci-Fi|Thriller
+278	Escape from New York (1981)	Action|Adventure|Sci-Fi|Thriller
+279	Monty Python and the Holy Grail (1975)	Adventure|Comedy|Fantasy
+280	Wallace & Gromit: The Wrong Trousers (1993)	Animation|Children|Comedy|Crime
+281	Cinema Paradiso (Nuovo cinema Paradiso) (1989)	Drama
+282	Delicatessen (1991)	Comedy|Drama|Romance
+283	Grifters, The (1990)	Crime|Drama|Film-Noir
+284	English Patient, The (1996)	Drama|Romance|War
+285	Sex, Lies, and Videotape (1989)	Drama
+286	Strictly Ballroom (1992)	Comedy|Romance
+287	One Flew Over the Cuckoo's Nest (1975)	Drama
+288	Star Wars: Episode V - The Empire Strikes Back (1980)	Action|Adventure|Sci-Fi
+289	Princess Bride, The (1987)	Action|Adventure|Comedy|Fantasy|Romance
+290	Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	Action|Adventure
+291	Brazil (1985)	Fantasy|Sci-Fi
+292	Aliens (1986)	Action|Adventure|Horror|Sci-Fi
+293	Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	Action|Adventure|Western
+294	12 Angry Men (1957)	Drama
+295	Lawrence of Arabia (1962)	Adventure|Drama|War
+296	Clockwork Orange, A (1971)	Crime|Drama|Sci-Fi|Thriller
+297	To Kill a Mockingbird (1962)	Drama
+298	Apocalypse Now (1979)	Action|Drama|War
+299	Star Wars: Episode VI - Return of the Jedi (1983)	Action|Adventure|Sci-Fi
+300	Third Man, The (1949)	Film-Noir|Mystery|Thriller
+301	Goodfellas (1990)	Crime|Drama
+302	Alien (1979)	Horror|Sci-Fi
+303	Army of Darkness (1993)	Action|Adventure|Comedy|Fantasy|Horror
+304	Psycho (1960)	Crime|Horror
+305	Blues Brothers, The (1980)	Action|Comedy|Musical
+306	Godfather: Part II, The (1974)	Crime|Drama
+307	Full Metal Jacket (1987)	Drama|War
+308	Grand Day Out with Wallace and Gromit, A (1989)	Adventure|Animation|Children|Comedy|Sci-Fi
+309	Amadeus (1984)	Drama
+310	Raging Bull (1980)	Drama
+311	Annie Hall (1977)	Comedy|Romance
+312	Boot, Das (Boat, The) (1981)	Action|Drama|War
+313	Sting, The (1973)	Comedy|Crime
+314	Harold and Maude (1971)	Comedy|Drama|Romance
+315	Terminator, The (1984)	Action|Sci-Fi|Thriller
+316	Glory (1989)	Drama|War
+317	Manhattan (1979)	Comedy|Drama|Romance
+318	Dead Poets Society (1989)	Drama
+319	Graduate, The (1967)	Comedy|Drama|Romance
+320	Femme Nikita, La (Nikita) (1990)	Action|Crime|Romance|Thriller
+321	Bridge on the River Kwai, The (1957)	Adventure|Drama|War
+322	Chinatown (1974)	Crime|Film-Noir|Mystery|Thriller
+323	Day the Earth Stood Still, The (1951)	Drama|Sci-Fi|Thriller
+324	Duck Soup (1933)	Comedy|Musical|War
+325	Better Off Dead... (1985)	Comedy|Romance
+326	Shining, The (1980)	Horror
+327	Stand by Me (1986)	Adventure|Drama
+328	Evil Dead II (Dead by Dawn) (1987)	Action|Comedy|Fantasy|Horror
+329	Great Escape, The (1963)	Action|Adventure|Drama|War
+330	Deer Hunter, The (1978)	Drama|War
+331	Groundhog Day (1993)	Comedy|Fantasy|Romance
+332	Unforgiven (1992)	Drama|Western
+333	Manchurian Candidate, The (1962)	Crime|Thriller|War
+334	Arsenic and Old Lace (1944)	Comedy|Mystery|Thriller
+335	Back to the Future (1985)	Adventure|Comedy|Sci-Fi
+336	Fried Green Tomatoes (1991)	Comedy|Crime|Drama
+337	Patton (1970)	Drama|War
+338	Akira (1988)	Action|Adventure|Animation|Sci-Fi
+339	Highlander (1986)	Action|Adventure|Fantasy
+340	Cool Hand Luke (1967)	Drama
+341	Young Frankenstein (1974)	Comedy|Fantasy
+342	Fantasia (1940)	Animation|Children|Fantasy|Musical
+343	Heathers (1989)	Comedy
+344	Ben-Hur (1959)	Action|Adventure|Drama
+345	This Is Spinal Tap (1984)	Comedy
+346	Indiana Jones and the Last Crusade (1989)	Action|Adventure
+347	Gandhi (1982)	Drama
+348	Pink Floyd: The Wall (1982)	Drama|Musical
+349	Killing Fields, The (1984)	Drama|War
+350	Field of Dreams (1989)	Children|Drama|Fantasy
+351	Butch Cassidy and the Sundance Kid (1969)	Action|Western
+352	When Harry Met Sally... (1989)	Comedy|Romance
+353	Alien³ (a.k.a. Alien 3) (1992)	Action|Horror|Sci-Fi|Thriller
+354	American Werewolf in London, An (1981)	Comedy|Horror|Thriller
+355	Birds, The (1963)	Horror|Thriller
+356	Dracula (Bram Stoker's Dracula) (1992)	Fantasy|Horror|Romance|Thriller
+357	Cape Fear (1991)	Thriller
+358	Carrie (1976)	Drama|Fantasy|Horror|Thriller
+359	Nightmare on Elm Street, A (1984)	Horror|Thriller
+360	Star Trek: First Contact (1996)	Action|Adventure|Sci-Fi|Thriller
+361	Shine (1996)	Drama|Romance
+362	Sling Blade (1996)	Drama
+363	101 Dalmatians (1996)	Adventure|Children|Comedy
+364	Die Hard 2 (1990)	Action|Adventure|Thriller
+365	Star Trek: The Motion Picture (1979)	Adventure|Sci-Fi
+366	Star Trek VI: The Undiscovered Country (1991)	Action|Mystery|Sci-Fi
+367	Star Trek V: The Final Frontier (1989)	Action|Sci-Fi
+368	Star Trek II: The Wrath of Khan (1982)	Action|Adventure|Sci-Fi|Thriller
+369	Star Trek III: The Search for Spock (1984)	Action|Adventure|Sci-Fi
+370	Star Trek IV: The Voyage Home (1986)	Adventure|Comedy|Sci-Fi
+371	Batman Returns (1992)	Action|Crime
+372	Young Guns (1988)	Action|Comedy|Western
+373	Grease (1978)	Comedy|Musical|Romance
+374	Under Siege (1992)	Action|Drama|Thriller
+375	Jaws (1975)	Action|Horror
+376	Mars Attacks! (1996)	Action|Comedy|Sci-Fi
+377	Jerry Maguire (1996)	Drama|Romance
+378	Raising Arizona (1987)	Comedy
+379	Sneakers (1992)	Action|Comedy|Crime|Drama|Sci-Fi
+380	Beavis and Butt-Head Do America (1996)	Adventure|Animation|Comedy|Crime
+381	Scream (1996)	Comedy|Horror|Mystery|Thriller
+382	Last of the Mohicans, The (1992)	Action|Romance|War|Western
+383	Michael (1996)	Comedy|Drama|Fantasy|Romance
+384	Dante's Peak (1997)	Action|Thriller
+385	Waiting for Guffman (1996)	Comedy
+386	Donnie Brasco (1997)	Crime|Drama
+387	Private Parts (1997)	Comedy|Drama
+388	Saint, The (1997)	Action|Romance|Sci-Fi|Thriller
+389	Liar Liar (1997)	Comedy
+390	Anaconda (1997)	Action|Adventure|Thriller
+391	Grosse Pointe Blank (1997)	Comedy|Crime|Romance
+392	Romy and Michele's High School Reunion (1997)	Comedy
+393	Austin Powers: International Man of Mystery (1997)	Action|Adventure|Comedy
+394	Fifth Element, The (1997)	Action|Adventure|Comedy|Sci-Fi
+395	Lost World: Jurassic Park, The (1997)	Action|Adventure|Sci-Fi|Thriller
+396	Con Air (1997)	Action|Adventure|Thriller
+397	Batman & Robin (1997)	Action|Adventure|Fantasy|Thriller
+398	Hercules (1997)	Adventure|Animation|Children|Comedy|Musical
+399	My Best Friend's Wedding (1997)	Comedy|Romance
+400	Face/Off (1997)	Action|Crime|Drama|Thriller
+401	Men in Black (a.k.a. MIB) (1997)	Action|Comedy|Sci-Fi
+402	Contact (1997)	Drama|Sci-Fi
+403	Conan the Barbarian (1982)	Action|Adventure|Fantasy
+404	Event Horizon (1997)	Horror|Sci-Fi|Thriller
+405	Spawn (1997)	Action|Adventure|Sci-Fi|Thriller
+406	Conspiracy Theory (1997)	Drama|Mystery|Romance|Thriller
+407	Air Force One (1997)	Action|Thriller
+408	Hunt for Red October, The (1990)	Action|Adventure|Thriller
+409	In & Out (1997)	Comedy
+410	L.A. Confidential (1997)	Crime|Film-Noir|Mystery|Thriller
+411	Game, The (1997)	Drama|Mystery|Thriller
+412	Chasing Amy (1997)	Comedy|Drama|Romance
+413	Full Monty, The (1997)	Comedy|Drama
+414	I Know What You Did Last Summer (1997)	Horror|Mystery|Thriller
+415	The Devil's Advocate (1997)	Drama|Mystery|Thriller
+416	Gattaca (1997)	Drama|Sci-Fi|Thriller
+417	Stripes (1981)	Comedy|War
+418	Boogie Nights (1997)	Drama
+419	Witness (1985)	Drama|Romance|Thriller
+420	Starship Troopers (1997)	Action|Sci-Fi
+421	Sliding Doors (1998)	Drama|Romance
+422	Truman Show, The (1998)	Comedy|Drama|Sci-Fi
+423	Alien: Resurrection (1997)	Action|Horror|Sci-Fi
+424	Good Will Hunting (1997)	Drama|Romance
+425	Scream 2 (1997)	Comedy|Horror|Mystery|Thriller
+426	Titanic (1997)	Drama|Romance
+427	Tomorrow Never Dies (1997)	Action|Adventure|Thriller
+428	Jackie Brown (1997)	Crime|Drama|Thriller
+429	Big Lebowski, The (1998)	Comedy|Crime
+430	Wag the Dog (1997)	Comedy
+431	Dark City (1998)	Adventure|Film-Noir|Sci-Fi|Thriller
+432	Wedding Singer, The (1998)	Comedy|Romance
+433	Sphere (1998)	Sci-Fi|Thriller
+434	As Good as It Gets (1997)	Comedy|Drama|Romance
+435	U.S. Marshals (1998)	Action|Crime|Thriller
+436	Man in the Iron Mask, The (1998)	Action|Adventure|Drama
+437	Wild Things (1998)	Crime|Drama|Mystery|Thriller
+438	Lost in Space (1998)	Action|Adventure|Sci-Fi
+439	Deep Impact (1998)	Drama|Sci-Fi|Thriller
+440	Godzilla (1998)	Action|Sci-Fi|Thriller
+441	Bulworth (1998)	Comedy|Drama|Romance
+442	Fear and Loathing in Las Vegas (1998)	Adventure|Comedy|Drama
+443	Mulan (1998)	Adventure|Animation|Children|Comedy|Drama|Musical|Romance
+444	X-Files: Fight the Future, The (1998)	Action|Crime|Mystery|Sci-Fi|Thriller
+445	Dr. Dolittle (1998)	Comedy
+446	Out of Sight (1998)	Comedy|Crime|Drama|Romance|Thriller
+447	Armageddon (1998)	Action|Romance|Sci-Fi|Thriller
+448	Lethal Weapon 4 (1998)	Action|Comedy|Crime|Thriller
+449	Pi (1998)	Drama|Sci-Fi|Thriller
+450	There's Something About Mary (1998)	Comedy|Romance
+451	On the Waterfront (1954)	Crime|Drama
+452	West Side Story (1961)	Drama|Musical|Romance
+453	Midnight Cowboy (1969)	Drama
+454	French Connection, The (1971)	Action|Crime|Thriller
+455	Rocky (1976)	Drama
+456	Last Emperor, The (1987)	Drama
+457	Rain Man (1988)	Drama
+458	Driving Miss Daisy (1989)	Drama
+459	Repo Man (1984)	Comedy|Sci-Fi
+460	Labyrinth (1986)	Adventure|Fantasy|Musical
+461	Breakfast Club, The (1985)	Comedy|Drama
+462	Halloween (1978)	Horror
+463	Poltergeist (1982)	Horror|Thriller
+464	Exorcist, The (1973)	Horror|Mystery
+465	Lethal Weapon (1987)	Action|Comedy|Crime|Drama
+466	Lethal Weapon 2 (1989)	Action|Comedy|Crime|Drama
+467	Lethal Weapon 3 (1992)	Action|Comedy|Crime|Drama
+468	Gremlins (1984)	Comedy|Horror
+469	Goonies, The (1985)	Action|Adventure|Children|Comedy|Fantasy
+470	Mask of Zorro, The (1998)	Action|Comedy|Romance
+471	Metropolis (1927)	Drama|Sci-Fi
+472	Back to the Future Part II (1989)	Adventure|Comedy|Sci-Fi
+473	Back to the Future Part III (1990)	Adventure|Comedy|Sci-Fi|Western
+474	Poseidon Adventure, The (1972)	Action|Adventure|Drama
+475	Bambi (1942)	Animation|Children|Drama
+476	Seven Samurai (Shichinin no samurai) (1954)	Action|Adventure|Drama
+477	Dangerous Liaisons (1988)	Drama|Romance
+478	Dune (1984)	Adventure|Sci-Fi
+479	Godfather: Part III, The (1990)	Crime|Drama|Mystery|Thriller
+480	Saving Private Ryan (1998)	Action|Drama|War
+481	Flight of the Navigator (1986)	Adventure|Children|Sci-Fi
+482	Hocus Pocus (1993)	Children|Comedy|Fantasy|Horror
+483	Honey, I Shrunk the Kids (1989)	Adventure|Children|Comedy|Fantasy|Sci-Fi
+484	Negotiator, The (1998)	Action|Crime|Drama|Mystery|Thriller
+485	Roger & Me (1989)	Documentary
+486	Blue Velvet (1986)	Drama|Mystery|Thriller
+487	Jungle Book, The (1967)	Animation|Children|Comedy|Musical
+488	Lady and the Tramp (1955)	Animation|Children|Comedy|Romance
+489	Little Mermaid, The (1989)	Animation|Children|Comedy|Musical|Romance
+490	Mighty Ducks, The (1992)	Children|Comedy
+491	101 Dalmatians (One Hundred and One Dalmatians) (1961)	Adventure|Animation|Children
+492	Peter Pan (1953)	Animation|Children|Fantasy|Musical
+493	Rocketeer, The (1991)	Action|Adventure|Sci-Fi
+494	Sleeping Beauty (1959)	Animation|Children|Musical
+495	Splash (1984)	Comedy|Fantasy|Romance
+496	Tron (1982)	Action|Adventure|Sci-Fi
+497	L.A. Story (1991)	Comedy|Romance
+498	Jerk, The (1979)	Comedy
+499	Indiana Jones and the Temple of Doom (1984)	Action|Adventure|Fantasy
+500	Addams Family, The (1991)	Children|Comedy|Fantasy
+501	Weird Science (1985)	Comedy|Fantasy|Sci-Fi
+502	Dark Crystal, The (1982)	Adventure|Fantasy
+503	Sixteen Candles (1984)	Comedy|Romance
+504	Pretty in Pink (1986)	Comedy|Drama|Romance
+505	Gods Must Be Crazy, The (1980)	Adventure|Comedy
+506	Rosemary's Baby (1968)	Drama|Horror|Thriller
+507	NeverEnding Story, The (1984)	Adventure|Children|Fantasy
+508	Blade (1998)	Action|Horror|Thriller
+509	Beetlejuice (1988)	Comedy|Fantasy
+510	Strangers on a Train (1951)	Crime|Drama|Film-Noir|Thriller
+511	Willow (1988)	Action|Adventure|Fantasy
+512	Untouchables, The (1987)	Action|Crime|Drama
+513	Rounders (1998)	Drama
+514	Cube (1997)	Horror|Mystery|Sci-Fi|Thriller
+515	Broadcast News (1987)	Comedy|Drama|Romance
+516	Working Girl (1988)	Comedy|Drama|Romance
+517	Say Anything... (1989)	Comedy|Drama|Romance
+518	Few Good Men, A (1992)	Crime|Drama|Thriller
+519	Rush Hour (1998)	Action|Comedy|Crime|Thriller
+520	Ronin (1998)	Action|Crime|Thriller
+521	Thing, The (1982)	Action|Horror|Sci-Fi|Thriller
+522	Player, The (1992)	Comedy|Crime|Drama
+523	Edward Scissorhands (1990)	Drama|Fantasy|Romance
+524	Antz (1998)	Adventure|Animation|Children|Comedy|Fantasy
+525	Producers, The (1968)	Comedy
+526	My Cousin Vinny (1992)	Comedy
+527	Pleasantville (1998)	Comedy|Drama|Fantasy
+528	Life Is Beautiful (La Vita è bella) (1997)	Comedy|Drama|Romance|War
+529	American History X (1998)	Crime|Drama
+530	Waterboy, The (1998)	Comedy
+531	Elizabeth (1998)	Drama
+532	Big Chill, The (1983)	Comedy|Drama
+533	Enemy of the State (1998)	Action|Thriller
+534	Bug's Life, A (1998)	Adventure|Animation|Children|Comedy
+535	Waking Ned Devine (a.k.a. Waking Ned) (1998)	Comedy
+536	King Kong (1933)	Action|Adventure|Fantasy|Horror
+537	Desperately Seeking Susan (1985)	Comedy|Drama|Romance
+538	Fletch (1985)	Comedy|Crime|Mystery
+539	Money Pit, The (1986)	Comedy
+540	View to a Kill, A (1985)	Action|Adventure|Thriller
+541	Police Academy (1984)	Comedy|Crime
+542	Babe: Pig in the City (1998)	Adventure|Children|Drama
+543	Simple Plan, A (1998)	Crime|Drama|Thriller
+544	Star Trek: Insurrection (1998)	Action|Drama|Romance|Sci-Fi
+545	Prince of Egypt, The (1998)	Animation|Musical
+546	Rushmore (1998)	Comedy|Drama
+547	Shakespeare in Love (1998)	Comedy|Drama|Romance
+548	First Blood (Rambo: First Blood) (1982)	Action|Adventure|Drama|Thriller
+549	Jewel of the Nile, The (1985)	Action|Adventure|Comedy|Romance
+550	Romancing the Stone (1984)	Action|Adventure|Comedy|Romance
+551	Cocoon (1985)	Comedy|Sci-Fi
+552	Rocky II (1979)	Action|Drama
+553	Rocky III (1982)	Action|Drama
+554	Rocky IV (1985)	Action|Drama
+555	Karate Kid, The (1984)	Drama
+556	Karate Kid, Part II, The (1986)	Action|Adventure|Drama
+557	Christmas Vacation (National Lampoon's Christmas Vacation) (1989)	Comedy
+558	You've Got Mail (1998)	Comedy|Romance
+559	Thin Red Line, The (1998)	Action|Drama|War
+560	Faculty, The (1998)	Horror|Sci-Fi
+561	Patch Adams (1998)	Comedy|Drama
+562	Fly, The (1986)	Drama|Horror|Sci-Fi|Thriller
+563	Crocodile Dundee (1986)	Adventure|Comedy
+564	Crocodile Dundee II (1988)	Action|Adventure|Comedy
+565	¡Three Amigos! (1986)	Comedy|Western
+566	She's All That (1999)	Comedy|Romance
+567	Payback (1999)	Action|Thriller
+568	October Sky (1999)	Drama
+569	Office Space (1999)	Comedy|Crime
+570	Logan's Run (1976)	Action|Adventure|Sci-Fi
+571	Planet of the Apes (1968)	Action|Drama|Sci-Fi
+572	Analyze This (1999)	Comedy
+573	Cruel Intentions (1999)	Drama
+574	Lock, Stock & Two Smoking Barrels (1998)	Comedy|Crime|Thriller
+575	Matrix, The (1999)	Action|Sci-Fi|Thriller
+576	10 Things I Hate About You (1999)	Comedy|Romance
+577	Go (1999)	Comedy|Crime
+578	Never Been Kissed (1999)	Comedy|Romance
+579	Pushing Tin (1999)	Comedy
+580	Election (1999)	Comedy
+581	eXistenZ (1999)	Action|Sci-Fi|Thriller
+582	Entrapment (1999)	Crime|Thriller
+583	Dick Tracy (1990)	Action|Crime
+584	Mummy, The (1999)	Action|Adventure|Comedy|Fantasy|Horror|Thriller
+585	Star Wars: Episode I - The Phantom Menace (1999)	Action|Adventure|Sci-Fi
+586	Superman (1978)	Action|Adventure|Sci-Fi
+587	Superman II (1980)	Action|Sci-Fi
+588	Superman III (1983)	Action|Adventure|Sci-Fi
+589	Rocky Horror Picture Show, The (1975)	Comedy|Horror|Musical|Sci-Fi
+590	Notting Hill (1999)	Comedy|Romance
+591	Austin Powers: The Spy Who Shagged Me (1999)	Action|Adventure|Comedy
+592	Tarzan (1999)	Adventure|Animation|Children|Drama
+593	Run Lola Run (Lola rennt) (1998)	Action|Crime
+594	Big Daddy (1999)	Comedy
+595	Arachnophobia (1990)	Comedy|Horror
+596	South Park: Bigger, Longer and Uncut (1999)	Animation|Comedy|Musical
+597	Wild Wild West (1999)	Action|Comedy|Sci-Fi|Western
+598	American Pie (1999)	Comedy|Romance
+599	Blair Witch Project, The (1999)	Drama|Horror|Thriller
+600	Eyes Wide Shut (1999)	Drama|Mystery|Thriller
+601	Ghostbusters (a.k.a. Ghost Busters) (1984)	Action|Comedy|Sci-Fi
+602	Ghostbusters II (1989)	Comedy|Fantasy|Sci-Fi
+603	Deep Blue Sea (1999)	Action|Horror|Sci-Fi|Thriller
+604	Mystery Men (1999)	Action|Comedy|Fantasy
+605	Runaway Bride (1999)	Comedy|Romance
+606	Little Shop of Horrors (1986)	Comedy|Horror|Musical
+607	Iron Giant, The (1999)	Adventure|Animation|Children|Drama|Sci-Fi
+608	Sixth Sense, The (1999)	Drama|Horror|Mystery
+609	Thomas Crown Affair, The (1999)	Action|Mystery
+610	Bowfinger (1999)	Comedy
+611	Monty Python's And Now for Something Completely Different (1971)	Comedy
+612	Airplane! (1980)	Comedy
+613	National Lampoon's Vacation (1983)	Comedy
+614	Big (1988)	Comedy|Drama|Fantasy|Romance
+615	Christmas Story, A (1983)	Children|Comedy
+616	Mickey Blue Eyes (1999)	Comedy|Romance
+617	13th Warrior, The (1999)	Action|Adventure|Fantasy
+618	Stigmata (1999)	Drama|Thriller
+619	American Beauty (1999)	Drama|Romance
+620	Deliverance (1972)	Adventure|Drama|Thriller
+621	Excalibur (1981)	Adventure|Fantasy
+622	Three Kings (1999)	Action|Adventure|Comedy|Drama|War
+623	Boys Don't Cry (1999)	Drama
+624	Risky Business (1983)	Comedy
+625	Total Recall (1990)	Action|Adventure|Sci-Fi|Thriller
+626	Ferris Bueller's Day Off (1986)	Comedy
+627	Dirty Dozen, The (1967)	Action|Drama|War
+628	Goldfinger (1964)	Action|Adventure|Thriller
+629	From Russia with Love (1963)	Action|Adventure|Thriller
+630	Dr. No (1962)	Action|Adventure|Thriller
+631	Fistful of Dollars, A (Per un pugno di dollari) (1964)	Action|Western
+632	Home Alone 2: Lost in New York (1992)	Children|Comedy
+633	Fight Club (1999)	Action|Crime|Drama|Thriller
+634	Time Bandits (1981)	Adventure|Comedy|Fantasy|Sci-Fi
+635	RoboCop (1987)	Action|Crime|Drama|Sci-Fi|Thriller
+636	RoboCop 2 (1990)	Action|Crime|Sci-Fi|Thriller
+637	Who Framed Roger Rabbit? (1988)	Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery
+638	For Your Eyes Only (1981)	Action|Adventure|Thriller
+639	Live and Let Die (1973)	Action|Adventure|Thriller
+640	Thunderball (1965)	Action|Adventure|Thriller
+641	Being John Malkovich (1999)	Comedy|Drama|Fantasy
+642	Princess Mononoke (Mononoke-hime) (1997)	Action|Adventure|Animation|Drama|Fantasy
+643	Bone Collector, The (1999)	Thriller
+644	Insider, The (1999)	Drama|Thriller
+645	Spaceballs (1987)	Comedy|Sci-Fi
+646	Robin Hood (1973)	Adventure|Animation|Children|Comedy|Musical
+647	Little Big Man (1970)	Western
+648	Trading Places (1983)	Comedy
+649	Dogma (1999)	Adventure|Comedy|Fantasy
+650	Adventures of Buckaroo Banzai Across the 8th Dimension, The (1984)	Adventure|Comedy|Sci-Fi
+651	Moonstruck (1987)	Comedy|Romance
+652	Sleepy Hollow (1999)	Fantasy|Horror|Mystery|Romance
+653	World Is Not Enough, The (1999)	Action|Adventure|Thriller
+654	Scrooged (1988)	Comedy|Fantasy|Romance
+655	Natural, The (1984)	Drama
+656	River Runs Through It, A (1992)	Drama
+657	Fatal Attraction (1987)	Drama|Thriller
+658	Midnight Run (1988)	Action|Comedy|Crime|Thriller
+659	Awakenings (1990)	Drama|Mystery
+660	Backdraft (1991)	Action|Drama
+661	Fisher King, The (1991)	Comedy|Drama|Fantasy|Romance
+662	Toy Story 2 (1999)	Adventure|Animation|Children|Comedy|Fantasy
+663	Green Mile, The (1999)	Crime|Drama
+664	Cider House Rules, The (1999)	Drama
+665	Magnolia (1999)	Drama
+666	Easy Rider (1969)	Adventure|Drama
+667	Man on the Moon (1999)	Comedy|Drama
+668	Galaxy Quest (1999)	Adventure|Comedy|Sci-Fi
+669	Talented Mr. Ripley, The (1999)	Drama|Mystery|Thriller
+670	Girl, Interrupted (1999)	Drama
+671	Fast Times at Ridgemont High (1982)	Comedy|Drama|Romance
+672	Sister Act (1992)	Comedy|Crime
+673	Scent of a Woman (1992)	Drama
+674	Wayne's World (1992)	Comedy
+675	Wayne's World 2 (1993)	Comedy
+676	League of Their Own, A (1992)	Comedy|Drama
+677	Patriot Games (1992)	Action|Crime|Drama|Thriller
+678	Bodyguard, The (1992)	Drama|Romance|Thriller
+679	Buffy the Vampire Slayer (1992)	Action|Comedy|Horror
+680	Forever Young (1992)	Drama|Romance|Sci-Fi
+681	Scream 3 (2000)	Comedy|Horror|Mystery|Thriller
+682	Boondock Saints, The (2000)	Action|Crime|Drama|Thriller
+683	Beach, The (2000)	Adventure|Drama
+684	Pitch Black (2000)	Horror|Sci-Fi|Thriller
+685	Whole Nine Yards, The (2000)	Comedy|Crime
+686	Wonder Boys (2000)	Comedy|Drama
+687	Mission to Mars (2000)	Sci-Fi
+688	Hoosiers (a.k.a. Best Shot) (1986)	Drama|Romance
+689	Bull Durham (1988)	Comedy|Drama|Romance
+690	Dog Day Afternoon (1975)	Crime|Drama
+691	American Graffiti (1973)	Comedy|Drama
+692	JFK (1991)	Drama|Mystery|Thriller
+693	Muppet Movie, The (1979)	Adventure|Children|Comedy|Musical
+694	Erin Brockovich (2000)	Drama
+695	Final Destination (2000)	Drama|Thriller
+696	Thelma & Louise (1991)	Adventure|Crime|Drama
+697	Animal House (1978)	Comedy
+698	Do the Right Thing (1989)	Drama
+699	Teenage Mutant Ninja Turtles (1990)	Action|Children|Comedy|Fantasy|Sci-Fi
+700	Good Morning, Vietnam (1987)	Comedy|Drama|War
+701	Grumpy Old Men (1993)	Comedy
+702	Modern Times (1936)	Comedy|Drama|Romance
+703	Close Encounters of the Third Kind (1977)	Adventure|Drama|Sci-Fi
+704	Jacob's Ladder (1990)	Horror|Mystery
+705	High Fidelity (2000)	Comedy|Drama|Romance
+706	Hook (1991)	Adventure|Comedy|Fantasy
+707	Misery (1990)	Drama|Horror|Thriller
+708	Network (1976)	Comedy|Drama
+709	Frequency (2000)	Drama|Thriller
+710	Predator (1987)	Action|Sci-Fi|Thriller
+711	28 Days (2000)	Drama
+712	American Psycho (2000)	Crime|Horror|Mystery|Thriller
+713	Keeping the Faith (2000)	Comedy|Drama|Romance
+714	Caddyshack (1980)	Comedy
+715	U-571 (2000)	Action|Thriller|War
+716	Virgin Suicides, The (1999)	Drama|Romance
+717	Gladiator (2000)	Action|Adventure|Drama
+718	Pee-wee's Big Adventure (1985)	Adventure|Comedy
+719	Road Trip (2000)	Comedy
+720	Mission: Impossible II (2000)	Action|Adventure|Thriller
+721	Shanghai Noon (2000)	Action|Adventure|Comedy|Western
+722	Moonraker (1979)	Action|Adventure|Sci-Fi|Thriller
+723	Blazing Saddles (1974)	Comedy|Western
+724	For a Few Dollars More (Per qualche dollaro in più) (1965)	Action|Drama|Thriller|Western
+725	Predator 2 (1990)	Action|Sci-Fi|Thriller
+726	Running Man, The (1987)	Action|Sci-Fi
+727	Mad Max (1979)	Action|Adventure|Sci-Fi
+728	Road Warrior, The (Mad Max 2) (1981)	Action|Adventure|Sci-Fi|Thriller
+729	Mad Max Beyond Thunderdome (1985)	Action|Adventure|Sci-Fi
+730	Gone in 60 Seconds (2000)	Action|Crime
+731	Big Trouble in Little China (1986)	Action|Adventure|Comedy|Fantasy
+732	Titan A.E. (2000)	Action|Adventure|Animation|Children|Sci-Fi
+733	Chicken Run (2000)	Animation|Children|Comedy
+734	Me, Myself & Irene (2000)	Adventure|Comedy
+735	Patriot, The (2000)	Action|Drama|War
+736	Perfect Storm, The (2000)	Drama|Thriller
+737	Scary Movie (2000)	Comedy|Horror
+738	X-Men (2000)	Action|Adventure|Sci-Fi
+739	What Lies Beneath (2000)	Drama|Horror|Mystery
+740	What About Bob? (1991)	Comedy
+741	Coyote Ugly (2000)	Comedy|Drama|Romance
+742	Hollow Man (2000)	Horror|Sci-Fi|Thriller
+743	Space Cowboys (2000)	Action|Adventure|Comedy|Sci-Fi
+744	Cell, The (2000)	Drama|Horror|Thriller
+745	Naked Gun: From the Files of Police Squad!, The (1988)	Action|Comedy|Crime|Romance
+746	Naked Gun 2 1/2: The Smell of Fear, The (1991)	Comedy
+747	Bring It On (2000)	Comedy
+748	Almost Famous (2000)	Drama
+749	Best in Show (2000)	Comedy
+750	Remember the Titans (2000)	Drama
+751	Meet the Parents (2000)	Comedy
+752	Requiem for a Dream (2000)	Drama
+753	Billy Elliot (2000)	Drama
+754	Bedazzled (2000)	Comedy
+755	Pay It Forward (2000)	Drama
+756	Charlie's Angels (2000)	Action|Comedy
+757	Little Nicky (2000)	Comedy
+758	Diamonds Are Forever (1971)	Action|Adventure|Thriller
+759	How the Grinch Stole Christmas (a.k.a. The Grinch) (2000)	Children|Comedy|Fantasy
+760	Unbreakable (2000)	Drama|Sci-Fi
+761	Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	Action|Drama|Romance
+762	Planes, Trains & Automobiles (1987)	Comedy
+763	Snatch (2000)	Comedy|Crime|Thriller
+764	Chocolat (2000)	Drama|Romance
+765	Dude, Where's My Car? (2000)	Comedy|Sci-Fi
+766	Emperor's New Groove, The (2000)	Adventure|Animation|Children|Comedy|Fantasy
+767	What Women Want (2000)	Comedy|Romance
+768	Finding Forrester (2000)	Drama
+769	Cast Away (2000)	Drama
+770	Family Man, The (2000)	Comedy|Drama|Romance
+771	Miss Congeniality (2000)	Comedy|Crime
+772	O Brother, Where Art Thou? (2000)	Adventure|Comedy|Crime
+773	Traffic (2000)	Crime|Drama|Thriller
+774	Wedding Planner, The (2001)	Comedy|Romance
+775	Beverly Hills Cop (1984)	Action|Comedy|Crime|Drama
+776	Evil Dead, The (1981)	Fantasy|Horror|Thriller
+777	Lost Boys, The (1987)	Comedy|Horror|Thriller
+778	Hannibal (2001)	Horror|Thriller
+779	Mexican, The (2001)	Action|Comedy
+780	Enemy at the Gates (2001)	Drama|War
+781	Memento (2000)	Mystery|Thriller
+782	Spy Kids (2001)	Action|Adventure|Children|Comedy
+783	Amores Perros (Love's a Bitch) (2000)	Drama|Thriller
+784	Blow (2001)	Crime|Drama
+785	Bridget Jones's Diary (2001)	Comedy|Drama|Romance
+786	Joe Dirt (2001)	Adventure|Comedy|Mystery|Romance
+787	Scarface (1983)	Action|Crime|Drama
+788	Mummy Returns, The (2001)	Action|Adventure|Comedy|Thriller
+789	Knight's Tale, A (2001)	Action|Comedy|Romance
+790	Shrek (2001)	Adventure|Animation|Children|Comedy|Fantasy|Romance
+791	Moulin Rouge (2001)	Drama|Musical|Romance
+792	Pearl Harbor (2001)	Action|Drama|Romance|War
+793	City Slickers (1991)	Comedy|Western
+794	Evolution (2001)	Comedy|Sci-Fi
+795	Swordfish (2001)	Action|Crime|Drama
+796	Tootsie (1982)	Comedy|Romance
+797	Lara Croft: Tomb Raider (2001)	Action|Adventure
+798	Fast and the Furious, The (2001)	Action|Crime|Thriller
+799	A.I. Artificial Intelligence (2001)	Adventure|Drama|Sci-Fi
+800	Scary Movie 2 (2001)	Comedy
+801	Final Fantasy: The Spirits Within (2001)	Adventure|Animation|Fantasy|Sci-Fi
+802	Legally Blonde (2001)	Comedy|Romance
+803	Coming to America (1988)	Comedy|Romance
+804	Bill & Ted's Excellent Adventure (1989)	Adventure|Comedy|Sci-Fi
+805	Jurassic Park III (2001)	Action|Adventure|Sci-Fi|Thriller
+806	Ghost World (2001)	Comedy|Drama
+807	Planet of the Apes (2001)	Action|Adventure|Drama|Sci-Fi
+808	Princess Diaries, The (2001)	Children|Comedy|Romance
+809	Rush Hour 2 (2001)	Action|Comedy
+810	American Pie 2 (2001)	Comedy
+811	Others, The (2001)	Drama|Horror|Mystery|Thriller
+812	Jay and Silent Bob Strike Back (2001)	Adventure|Comedy
+813	Training Day (2001)	Crime|Drama|Thriller
+814	Zoolander (2001)	Comedy
+815	Serendipity (2001)	Comedy|Romance
+816	Mulholland Drive (2001)	Crime|Drama|Film-Noir|Mystery|Thriller
+817	K-PAX (2001)	Drama|Fantasy|Mystery|Sci-Fi
+818	Donnie Darko (2001)	Drama|Mystery|Sci-Fi|Thriller
+819	Monsters, Inc. (2001)	Adventure|Animation|Children|Comedy|Fantasy
+820	Shallow Hal (2001)	Comedy|Fantasy|Romance
+821	Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)	Adventure|Children|Fantasy
+822	Spy Game (2001)	Action|Crime|Drama|Thriller
+823	Ocean's Eleven (2001)	Crime|Thriller
+824	Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	Comedy|Romance
+825	Vanilla Sky (2001)	Mystery|Romance|Sci-Fi|Thriller
+826	Royal Tenenbaums, The (2001)	Comedy|Drama
+827	Lord of the Rings: The Fellowship of the Ring, The (2001)	Adventure|Fantasy
+828	Beautiful Mind, A (2001)	Drama|Romance
+829	Black Hawk Down (2001)	Action|Drama|War
+830	Gosford Park (2001)	Comedy|Drama|Mystery
+831	M*A*S*H (a.k.a. MASH) (1970)	Comedy|Drama|War
+832	The Count of Monte Cristo (2002)	Action|Adventure|Drama|Thriller
+833	Sandlot, The (1993)	Children|Comedy|Drama
+834	Super Troopers (2001)	Comedy|Crime|Mystery
+835	Time Machine, The (2002)	Action|Adventure|Sci-Fi
+836	Ice Age (2002)	Adventure|Animation|Children|Comedy
+837	Resident Evil (2002)	Action|Horror|Sci-Fi|Thriller
+838	And Your Mother Too (Y tu mamá también) (2001)	Drama|Romance
+839	Blade II (2002)	Action|Horror|Thriller
+840	Panic Room (2002)	Thriller
+841	National Lampoon's Van Wilder (2002)	Comedy
+842	My Big Fat Greek Wedding (2002)	Comedy|Romance
+843	The Scorpion King (2002)	Action|Adventure|Fantasy|Thriller
+844	Spider-Man (2002)	Action|Adventure|Sci-Fi|Thriller
+845	About a Boy (2002)	Comedy|Drama|Romance
+846	Star Wars: Episode II - Attack of the Clones (2002)	Action|Adventure|Sci-Fi|IMAX
+847	Insomnia (2002)	Action|Crime|Drama|Mystery|Thriller
+848	Bourne Identity, The (2002)	Action|Mystery|Thriller
+849	Lilo & Stitch (2002)	Adventure|Animation|Children|Sci-Fi
+850	Minority Report (2002)	Action|Crime|Mystery|Sci-Fi|Thriller
+851	Mr. Deeds (2002)	Comedy|Romance
+852	Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)	Action|Comedy|Sci-Fi
+853	Road to Perdition (2002)	Crime|Drama
+854	Austin Powers in Goldmember (2002)	Comedy
+855	Signs (2002)	Horror|Sci-Fi|Thriller
+856	xXx (2002)	Action|Crime|Thriller
+857	Transporter, The (2002)	Action|Crime
+858	Secretary (2002)	Comedy|Drama|Romance
+859	Spirited Away (Sen to Chihiro no kamikakushi) (2001)	Adventure|Animation|Fantasy
+860	Sweet Home Alabama (2002)	Comedy|Romance
+861	Red Dragon (2002)	Crime|Mystery|Thriller
+862	Bowling for Columbine (2002)	Documentary
+863	Punch-Drunk Love (2002)	Comedy|Drama|Romance
+864	Ring, The (2002)	Horror|Mystery|Thriller
+865	8 Mile (2002)	Drama
+866	Harry Potter and the Chamber of Secrets (2002)	Adventure|Fantasy
+867	Die Another Day (2002)	Action|Adventure|Thriller
+868	Adaptation (2002)	Comedy|Drama|Romance
+869	Equilibrium (2002)	Action|Sci-Fi|Thriller
+870	About Schmidt (2002)	Comedy|Drama
+871	Lord of the Rings: The Two Towers, The (2002)	Adventure|Fantasy
+872	25th Hour (2002)	Crime|Drama
+873	Gangs of New York (2002)	Crime|Drama
+874	My Neighbor Totoro (Tonari no Totoro) (1988)	Animation|Children|Drama|Fantasy
+875	Catch Me If You Can (2002)	Crime|Drama
+876	Chicago (2002)	Comedy|Crime|Drama|Musical
+877	Pianist, The (2002)	Drama|War
+878	City of God (Cidade de Deus) (2002)	Action|Adventure|Crime|Drama|Thriller
+879	How to Lose a Guy in 10 Days (2003)	Comedy|Romance
+880	Daredevil (2003)	Action|Crime
+881	Old School (2003)	Comedy
+882	Bend It Like Beckham (2002)	Comedy|Drama|Romance
+883	Phone Booth (2002)	Drama|Thriller
+884	Anger Management (2003)	Comedy
+885	Identity (2003)	Crime|Horror|Mystery|Thriller
+886	X2: X-Men United (2003)	Action|Adventure|Sci-Fi|Thriller
+887	Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)	Action|Adventure|Animation|Children|Fantasy|Sci-Fi
+888	Matrix Reloaded, The (2003)	Action|Adventure|Sci-Fi|Thriller|IMAX
+889	Bruce Almighty (2003)	Comedy|Drama|Fantasy|Romance
+890	Finding Nemo (2003)	Adventure|Animation|Children|Comedy
+891	Italian Job, The (2003)	Action|Crime
+892	28 Days Later (2002)	Action|Horror|Sci-Fi
+893	Charlie's Angels: Full Throttle (2003)	Action|Adventure|Comedy|Crime|Thriller
+894	Hulk (2003)	Action|Adventure|Sci-Fi
+895	Terminator 3: Rise of the Machines (2003)	Action|Adventure|Sci-Fi
+896	Pirates of the Caribbean: The Curse of the Black Pearl (2003)	Action|Adventure|Comedy|Fantasy
+897	League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)	Action|Fantasy|Sci-Fi
+898	Freaky Friday (2003)	Children|Comedy|Fantasy
+899	Matchstick Men (2003)	Comedy|Crime|Drama
+900	Lost in Translation (2003)	Comedy|Drama|Romance
+901	Underworld (2003)	Action|Fantasy|Horror
+902	Triplets of Belleville, The (Les triplettes de Belleville) (2003)	Animation|Comedy|Fantasy
+903	All the President's Men (1976)	Drama|Thriller
+904	Monty Python's The Meaning of Life (1983)	Comedy
+905	School of Rock (2003)	Comedy|Musical
+906	Mystic River (2003)	Crime|Drama|Mystery
+907	Kill Bill: Vol. 1 (2003)	Action|Crime|Thriller
+908	Matrix Revolutions, The (2003)	Action|Adventure|Sci-Fi|Thriller|IMAX
+909	Elf (2003)	Children|Comedy|Fantasy
+910	Love Actually (2003)	Comedy|Drama|Romance
+911	Master and Commander: The Far Side of the World (2003)	Adventure|Drama|War
+912	21 Grams (2003)	Crime|Drama|Mystery|Romance|Thriller
+913	Bad Santa (2003)	Comedy|Crime
+914	WarGames (1983)	Drama|Sci-Fi|Thriller
+915	Battle Royale (Batoru rowaiaru) (2000)	Action|Drama|Horror|Thriller
+916	Hero (Ying xiong) (2002)	Action|Adventure|Drama
+917	Nausicaä of the Valley of the Wind (Kaze no tani no Naushika) (1984)	Adventure|Animation|Drama|Fantasy|Sci-Fi
+918	Last Samurai, The (2003)	Action|Adventure|Drama|War
+919	Big Fish (2003)	Drama|Fantasy|Romance
+920	Lord of the Rings: The Return of the King, The (2003)	Action|Adventure|Drama|Fantasy
+921	Along Came Polly (2004)	Comedy|Romance
+922	The Butterfly Effect (2004)	Drama|Sci-Fi|Thriller
+923	50 First Dates (2004)	Comedy|Romance
+924	Good bye, Lenin! (2003)	Comedy|Drama
+925	Eternal Sunshine of the Spotless Mind (2004)	Drama|Romance|Sci-Fi
+926	Hellboy (2004)	Action|Adventure|Fantasy|Horror
+927	Kill Bill: Vol. 2 (2004)	Action|Drama|Thriller
+928	13 Going on 30 (2004)	Comedy|Fantasy|Romance
+929	Man on Fire (2004)	Action|Crime|Drama|Mystery|Thriller
+930	Mean Girls (2004)	Comedy
+931	Van Helsing (2004)	Action|Adventure|Fantasy|Horror
+932	Troy (2004)	Action|Adventure|Drama|War
+933	Shrek 2 (2004)	Adventure|Animation|Children|Comedy|Musical|Romance
+934	Day After Tomorrow, The (2004)	Action|Adventure|Drama|Sci-Fi|Thriller
+935	Harry Potter and the Prisoner of Azkaban (2004)	Adventure|Fantasy|IMAX
+936	Chronicles of Riddick, The (2004)	Action|Sci-Fi|Thriller
+937	Napoleon Dynamite (2004)	Comedy
+938	Super Size Me (2004)	Comedy|Documentary|Drama
+939	Dodgeball: A True Underdog Story (2004)	Comedy
+940	Terminal, The (2004)	Comedy|Drama|Romance
+941	Notebook, The (2004)	Drama|Romance
+942	Fahrenheit 9/11 (2004)	Documentary
+943	Spider-Man 2 (2004)	Action|Adventure|Sci-Fi|IMAX
+944	Anchorman: The Legend of Ron Burgundy (2004)	Comedy
+945	I, Robot (2004)	Action|Adventure|Sci-Fi|Thriller
+946	Bourne Supremacy, The (2004)	Action|Crime|Thriller
+947	Village, The (2004)	Drama|Mystery|Thriller
+948	Garden State (2004)	Comedy|Drama|Romance
+949	Collateral (2004)	Action|Crime|Drama|Thriller
+950	Harold and Kumar Go to White Castle (2004)	Adventure|Comedy
+951	Motorcycle Diaries, The (Diarios de motocicleta) (2004)	Adventure|Drama
+952	Shaun of the Dead (2004)	Comedy|Horror
+953	I Heart Huckabees (2004)	Comedy
+954	Team America: World Police (2004)	Action|Adventure|Animation|Comedy
+955	Sideways (2004)	Comedy|Drama|Romance
+956	The Machinist (2004)	Drama|Mystery|Thriller
+957	Saw (2004)	Horror|Mystery|Thriller
+958	Incredibles, The (2004)	Action|Adventure|Animation|Children|Comedy
+959	Finding Neverland (2004)	Drama
+960	National Treasure (2004)	Action|Adventure|Drama|Mystery|Thriller
+961	House of Flying Daggers (Shi mian mai fu) (2004)	Action|Drama|Romance
+962	Ocean's Twelve (2004)	Action|Comedy|Crime|Thriller
+963	Lemony Snicket's A Series of Unfortunate Events (2004)	Adventure|Children|Comedy|Fantasy
+964	Old Boy (2003)	Mystery|Thriller
+965	Scanner Darkly, A (2006)	Animation|Drama|Mystery|Sci-Fi|Thriller
+966	Million Dollar Baby (2004)	Drama
+967	Hotel Rwanda (2004)	Drama|War
+968	Charlie and the Chocolate Factory (2005)	Adventure|Children|Comedy|Fantasy|IMAX
+969	Life Aquatic with Steve Zissou, The (2004)	Adventure|Comedy|Fantasy
+970	Aviator, The (2004)	Drama
+971	Meet the Fockers (2004)	Comedy
+972	Howl's Moving Castle (Hauru no ugoku shiro) (2004)	Adventure|Animation|Fantasy|Romance
+973	Hitch (2005)	Comedy|Romance
+974	Constantine (2005)	Action|Fantasy|Horror|Thriller
+975	Sin City (2005)	Action|Crime|Film-Noir|Mystery|Thriller
+976	Hitchhiker's Guide to the Galaxy, The (2005)	Adventure|Comedy|Sci-Fi
+977	Crash (2004)	Crime|Drama
+978	Star Wars: Episode III - Revenge of the Sith (2005)	Action|Adventure|Sci-Fi
+979	Madagascar (2005)	Adventure|Animation|Children|Comedy
+980	Mr. & Mrs. Smith (2005)	Action|Adventure|Comedy|Romance
+981	Batman Begins (2005)	Action|Crime|IMAX
+982	War of the Worlds (2005)	Action|Adventure|Sci-Fi|Thriller
+983	Fantastic Four (2005)	Action|Adventure|Sci-Fi
+984	Wedding Crashers (2005)	Comedy|Romance
+985	Island, The (2005)	Action|Sci-Fi|Thriller
+986	Serenity (2005)	Action|Adventure|Sci-Fi
+987	Broken Flowers (2005)	Comedy|Drama
+988	40-Year-Old Virgin, The (2005)	Comedy|Romance
+989	Lord of War (2005)	Action|Crime|Drama|Thriller|War
+990	Aeon Flux (2005)	Action|Sci-Fi
+991	Corpse Bride (2005)	Animation|Comedy|Fantasy|Musical|Romance
+992	History of Violence, A (2005)	Action|Crime|Drama|Thriller
+993	Capote (2005)	Crime|Drama
+994	Wallace & Gromit in The Curse of the Were-Rabbit (2005)	Adventure|Animation|Children|Comedy
+995	Kiss Kiss Bang Bang (2005)	Comedy|Crime|Mystery|Thriller
+996	Brokeback Mountain (2005)	Drama|Romance
+997	Pride & Prejudice (2005)	Drama|Romance
+998	Harry Potter and the Goblet of Fire (2005)	Adventure|Fantasy|Thriller|IMAX
+999	Walk the Line (2005)	Drama|Musical|Romance
+1000	Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)	Adventure|Children|Fantasy
+1001	King Kong (2005)	Action|Adventure|Drama|Fantasy|Thriller
+1002	Munich (2005)	Action|Crime|Drama|Thriller
+1003	Ice Age 2: The Meltdown (2006)	Adventure|Animation|Children|Comedy
+1004	V for Vendetta (2006)	Action|Sci-Fi|Thriller|IMAX
+1005	Thank You for Smoking (2006)	Comedy|Drama
+1006	Inside Man (2006)	Crime|Drama|Thriller
+1007	Lives of Others, The (Das leben der Anderen) (2006)	Drama|Romance|Thriller
+1008	Lucky Number Slevin (2006)	Crime|Drama|Mystery
+1009	Mission: Impossible III (2006)	Action|Adventure|Thriller
+1010	Da Vinci Code, The (2006)	Drama|Mystery|Thriller
+1011	X-Men: The Last Stand (2006)	Action|Sci-Fi|Thriller
+1012	Cars (2006)	Animation|Children|Comedy
+1013	Click (2006)	Adventure|Comedy|Drama|Fantasy|Romance
+1014	Devil Wears Prada, The (2006)	Comedy|Drama
+1015	Pirates of the Caribbean: Dead Man's Chest (2006)	Action|Adventure|Fantasy
+1016	Superman Returns (2006)	Action|Adventure|Sci-Fi|IMAX
+1017	Little Miss Sunshine (2006)	Adventure|Comedy|Drama
+1018	Babel (2006)	Drama|Thriller
+1019	Talladega Nights: The Ballad of Ricky Bobby (2006)	Action|Comedy
+1020	Night at the Museum (2006)	Action|Comedy|Fantasy|IMAX
+1021	Stranger than Fiction (2006)	Comedy|Drama|Fantasy|Romance
+1022	Pursuit of Happyness, The (2006)	Drama
+1023	Illusionist, The (2006)	Drama|Fantasy|Mystery|Romance
+1024	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006)	Comedy
+1025	Pan's Labyrinth (Laberinto del fauno, El) (2006)	Drama|Fantasy|Thriller
+1026	Departed, The (2006)	Crime|Drama|Thriller
+1027	Children of Men (2006)	Action|Adventure|Drama|Sci-Fi|Thriller
+1028	Prestige, The (2006)	Drama|Mystery|Sci-Fi|Thriller
+1029	Casino Royale (2006)	Action|Adventure|Thriller
+1030	Holiday, The (2006)	Comedy|Romance
+1031	Blood Diamond (2006)	Action|Adventure|Crime|Drama|Thriller|War
+1032	Ratatouille (2007)	Animation|Children|Drama
+1033	Hot Fuzz (2007)	Action|Comedy|Crime|Mystery
+1034	Zodiac (2007)	Crime|Drama|Thriller
+1035	300 (2007)	Action|Fantasy|War|IMAX
+1036	Shooter (2007)	Action|Drama|Thriller
+1037	Grindhouse (2007)	Action|Crime|Horror|Sci-Fi|Thriller
+1038	Spider-Man 3 (2007)	Action|Adventure|Sci-Fi|Thriller|IMAX
+1039	Knocked Up (2007)	Comedy|Drama|Romance
+1040	Pirates of the Caribbean: At World's End (2007)	Action|Adventure|Comedy|Fantasy
+1041	Ocean's Thirteen (2007)	Crime|Thriller
+1042	Death Proof (2007)	Action|Adventure|Crime|Horror|Thriller
+1043	1408 (2007)	Drama|Horror|Thriller
+1044	Live Free or Die Hard (2007)	Action|Adventure|Crime|Thriller
+1045	Transformers (2007)	Action|Sci-Fi|Thriller|IMAX
+1046	Harry Potter and the Order of the Phoenix (2007)	Adventure|Drama|Fantasy|IMAX
+1047	Stardust (2007)	Adventure|Comedy|Fantasy|Romance
+1048	Simpsons Movie, The (2007)	Animation|Comedy
+1049	Bourne Ultimatum, The (2007)	Action|Crime|Thriller
+1050	Superbad (2007)	Comedy
+1051	Planet Terror (2007)	Action|Horror|Sci-Fi
+1052	3:10 to Yuma (2007)	Action|Crime|Drama|Western
+1053	Into the Wild (2007)	Action|Adventure|Drama
+1054	Darjeeling Limited, The (2007)	Adventure|Comedy|Drama
+1055	American Gangster (2007)	Crime|Drama|Thriller
+1056	No Country for Old Men (2007)	Crime|Drama
+1057	I Am Legend (2007)	Action|Horror|Sci-Fi|Thriller|IMAX
+1058	Juno (2007)	Comedy|Drama|Romance
+1059	Sweeney Todd: The Demon Barber of Fleet Street (2007)	Drama|Horror|Musical|Thriller
+1060	National Treasure: Book of Secrets (2007)	Action|Adventure
+1061	There Will Be Blood (2007)	Drama|Western
+1062	Cloverfield (2008)	Action|Mystery|Sci-Fi|Thriller
+1063	In Bruges (2008)	Comedy|Crime|Drama|Thriller
+1064	Dark Knight, The (2008)	Action|Crime|Drama|IMAX
+1065	Forgetting Sarah Marshall (2008)	Comedy|Romance
+1066	Iron Man (2008)	Action|Adventure|Sci-Fi
+1067	Taken (2008)	Action|Crime|Drama|Thriller
+1068	Indiana Jones and the Kingdom of the Crystal Skull (2008)	Action|Adventure|Comedy|Sci-Fi
+1069	Kung Fu Panda (2008)	Action|Animation|Children|Comedy|IMAX
+1070	Incredible Hulk, The (2008)	Action|Sci-Fi
+1071	WALL·E (2008)	Adventure|Animation|Children|Romance|Sci-Fi
+1072	Wanted (2008)	Action|Thriller
+1073	Hancock (2008)	Action|Adventure|Comedy|Crime|Fantasy
+1074	Watchmen (2009)	Action|Drama|Mystery|Sci-Fi|Thriller|IMAX
+1075	Step Brothers (2008)	Comedy
+1076	Pineapple Express (2008)	Action|Comedy|Crime
+1077	Tropic Thunder (2008)	Action|Adventure|Comedy|War
+1078	Burn After Reading (2008)	Comedy|Crime|Drama
+1079	Zack and Miri Make a Porno (2008)	Comedy|Drama|Romance
+1080	Slumdog Millionaire (2008)	Crime|Drama|Romance
+1081	Quantum of Solace (2008)	Action|Adventure|Thriller
+1082	Twilight (2008)	Drama|Fantasy|Romance|Thriller
+1083	Gran Torino (2008)	Crime|Drama
+1084	Wrestler, The (2008)	Drama
+1085	Curious Case of Benjamin Button, The (2008)	Drama|Fantasy|Mystery|Romance
+1086	Yes Man (2008)	Comedy
+1087	Coraline (2009)	Animation|Fantasy|Thriller
+1088	Dr. Horrible's Sing-Along Blog (2008)	Comedy|Drama|Musical|Sci-Fi
+1089	Girl with the Dragon Tattoo, The (Män som hatar kvinnor) (2009)	Crime|Drama|Mystery|Thriller
+1090	Inglourious Basterds (2009)	Action|Drama|War
+1091	Moon (2009)	Drama|Mystery|Sci-Fi|Thriller
+1092	X-Men Origins: Wolverine (2009)	Action|Sci-Fi|Thriller
+1093	Star Trek (2009)	Action|Adventure|Sci-Fi|IMAX
+1094	Up (2009)	Adventure|Animation|Children|Drama
+1095	Hangover, The (2009)	Comedy|Crime
+1096	Hurt Locker, The (2008)	Action|Drama|Thriller|War
+1097	(500) Days of Summer (2009)	Comedy|Drama|Romance
+1098	Harry Potter and the Half-Blood Prince (2009)	Adventure|Fantasy|Mystery|Romance|IMAX
+1099	District 9 (2009)	Mystery|Sci-Fi|Thriller
+1100	Zombieland (2009)	Action|Comedy|Horror
+1101	Up in the Air (2009)	Drama|Romance
+1102	2012 (2009)	Action|Drama|Sci-Fi|Thriller
+1103	Blind Side, The  (2009)	Drama
+1104	Avatar (2009)	Action|Adventure|Sci-Fi|IMAX
+1105	Sherlock Holmes (2009)	Action|Crime|Mystery|Thriller
+1106	Shutter Island (2010)	Drama|Mystery|Thriller
+1107	Alice in Wonderland (2010)	Adventure|Fantasy|IMAX
+1108	How to Train Your Dragon (2010)	Adventure|Animation|Children|Fantasy|IMAX
+1109	Kick-Ass (2010)	Action|Comedy
+1110	Iron Man 2 (2010)	Action|Adventure|Sci-Fi|Thriller|IMAX
+1111	Toy Story 3 (2010)	Adventure|Animation|Children|Comedy|Fantasy|IMAX
+1112	Despicable Me (2010)	Animation|Children|Comedy|Crime
+1113	Inception (2010)	Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX
+1114	Other Guys, The (2010)	Action|Comedy
+1115	Scott Pilgrim vs. the World (2010)	Action|Comedy|Fantasy|Musical|Romance
+1116	Social Network, The (2010)	Drama
+1117	Town, The (2010)	Crime|Drama|Thriller
+1118	Easy A (2010)	Comedy|Romance
+1119	Black Swan (2010)	Drama|Thriller
+1120	Harry Potter and the Deathly Hallows: Part 1 (2010)	Action|Adventure|Fantasy|IMAX
+1121	King's Speech, The (2010)	Drama
+1122	Tangled (2010)	Animation|Children|Comedy|Fantasy|Musical|Romance|IMAX
+1123	Fighter, The (2010)	Drama
+1124	True Grit (2010)	Western
+1125	Limitless (2011)	Sci-Fi|Thriller
+1126	Adjustment Bureau, The (2011)	Romance|Sci-Fi|Thriller
+1127	Source Code (2011)	Action|Drama|Mystery|Sci-Fi|Thriller
+1128	Thor (2011)	Action|Adventure|Drama|Fantasy|IMAX
+1129	Bridesmaids (2011)	Comedy
+1130	Pirates of the Caribbean: On Stranger Tides (2011)	Action|Adventure|Fantasy|IMAX
+1131	Midnight in Paris (2011)	Comedy|Fantasy|Romance
+1132	X-Men: First Class (2011)	Action|Adventure|Sci-Fi|Thriller|War
+1133	Super 8 (2011)	Mystery|Sci-Fi|Thriller|IMAX
+1134	Horrible Bosses (2011)	Comedy|Crime
+1135	Harry Potter and the Deathly Hallows: Part 2 (2011)	Action|Adventure|Drama|Fantasy|Mystery|IMAX
+1136	Drive (2011)	Crime|Drama|Film-Noir|Thriller
+1137	Captain America: The First Avenger (2011)	Action|Adventure|Sci-Fi|Thriller|War
+1138	Crazy, Stupid, Love. (2011)	Comedy|Drama|Romance
+1139	Rise of the Planet of the Apes (2011)	Action|Drama|Sci-Fi|Thriller
+1140	Help, The (2011)	Drama
+1141	Moneyball (2011)	Drama
+1142	Avengers, The (2012)	Action|Adventure|Sci-Fi|IMAX
+1143	The Hunger Games (2012)	Action|Adventure|Drama|Sci-Fi|Thriller
+1144	Dark Knight Rises, The (2012)	Action|Adventure|Crime|IMAX
+1145	Sherlock Holmes: A Game of Shadows (2011)	Action|Adventure|Comedy|Crime|Mystery|Thriller
+1146	Mission: Impossible - Ghost Protocol (2011)	Action|Adventure|Thriller|IMAX
+1147	Girl with the Dragon Tattoo, The (2011)	Drama|Thriller
+1148	Intouchables (2011)	Comedy|Drama
+1149	21 Jump Street (2012)	Action|Comedy|Crime
+1150	Cabin in the Woods, The (2012)	Comedy|Horror|Sci-Fi|Thriller
+1151	Prometheus (2012)	Action|Horror|Sci-Fi|IMAX
+1152	Moonrise Kingdom (2012)	Comedy|Drama|Romance
+1153	Brave (2012)	Action|Adventure|Animation|Children
+1154	Ted (2012)	Comedy|Fantasy
+1155	Amazing Spider-Man, The (2012)	Action|Adventure|Sci-Fi|IMAX
+1156	Skyfall (2012)	Action|Adventure|Thriller|IMAX
+1157	Looper (2012)	Action|Crime|Sci-Fi
+1158	Argo (2012)	Drama|Thriller
+1159	Wreck-It Ralph (2012)	Animation|Comedy
+1160	Silver Linings Playbook (2012)	Comedy|Drama
+1161	Life of Pi (2012)	Adventure|Drama|IMAX
+1162	Hobbit: An Unexpected Journey, The (2012)	Adventure|Fantasy|IMAX
+1163	Django Unchained (2012)	Action|Drama|Western
+1164	Iron Man 3 (2013)	Action|Sci-Fi|Thriller|IMAX
+1165	Star Trek Into Darkness (2013)	Action|Adventure|Sci-Fi|IMAX
+1166	Now You See Me (2013)	Crime|Mystery|Thriller
+1167	Man of Steel (2013)	Action|Adventure|Fantasy|Sci-Fi|IMAX
+1168	We're the Millers (2013)	Comedy|Crime
+1169	Gravity (2013)	Action|Sci-Fi|IMAX
+1170	Captain Phillips (2013)	Adventure|Drama|Thriller|IMAX
+1171	Thor: The Dark World (2013)	Action|Adventure|Fantasy|IMAX
+1172	The Hunger Games: Catching Fire (2013)	Action|Adventure|Sci-Fi|IMAX
+1173	Hobbit: The Desolation of Smaug, The (2013)	Adventure|Fantasy|IMAX
+1174	Frozen (2013)	Adventure|Animation|Comedy|Fantasy|Musical|Romance
+1175	Wolf of Wall Street, The (2013)	Comedy|Crime|Drama
+1176	Her (2013)	Drama|Romance|Sci-Fi
+1177	Snowpiercer (2013)	Action|Drama|Sci-Fi
+1178	The Lego Movie (2014)	Action|Adventure|Animation|Children|Comedy|Fantasy
+1179	Grand Budapest Hotel, The (2014)	Comedy|Drama
+1180	Interstellar (2014)	Sci-Fi|IMAX
+1181	Captain America: The Winter Soldier (2014)	Action|Adventure|Sci-Fi|IMAX
+1182	X-Men: Days of Future Past (2014)	Action|Adventure|Sci-Fi
+1183	Edge of Tomorrow (2014)	Action|Sci-Fi|IMAX
+1184	Birdman: Or (The Unexpected Virtue of Ignorance) (2014)	Comedy|Drama
+1185	Whiplash (2014)	Drama
+1186	Gone Girl (2014)	Drama|Thriller
+1187	Guardians of the Galaxy (2014)	Action|Adventure|Sci-Fi
+1188	John Wick (2014)	Action|Thriller
+1189	Big Hero 6 (2014)	Action|Animation|Comedy
+1190	Ex Machina (2015)	Drama|Sci-Fi|Thriller
+1191	The Imitation Game (2014)	Drama|Thriller|War
+1192	The Hunger Games: Mockingjay - Part 1 (2014)	Adventure|Sci-Fi|Thriller
+1193	Jurassic World (2015)	Action|Adventure|Drama|Sci-Fi|Thriller
+1194	Kingsman: The Secret Service (2015)	Action|Adventure|Comedy|Crime
+1195	Mad Max: Fury Road (2015)	Action|Adventure|Sci-Fi|Thriller
+1196	Star Wars: Episode VII - The Force Awakens (2015)	Action|Adventure|Fantasy|Sci-Fi|IMAX
+1197	Avengers: Age of Ultron (2015)	Action|Adventure|Sci-Fi
+1198	Ant-Man (2015)	Action|Adventure|Sci-Fi
+1199	Deadpool (2016)	Action|Adventure|Comedy|Sci-Fi
+1200	Guardians of the Galaxy 2 (2017)	Action|Adventure|Sci-Fi
+1201	Captain America: Civil War (2016)	Action|Sci-Fi|Thriller
+1202	Doctor Strange (2016)	Action|Adventure|Sci-Fi
+1203	The Martian (2015)	Adventure|Drama|Sci-Fi
+1204	Inside Out (2015)	Adventure|Animation|Children|Comedy|Drama|Fantasy
+1205	The Revenant (2015)	Adventure|Drama
+1206	Big Short, The (2015)	Drama
+1207	Zootopia (2016)	Action|Adventure|Animation|Children|Comedy
+1208	Arrival (2016)	Sci-Fi
+1209	Rogue One: A Star Wars Story (2016)	Action|Adventure|Fantasy|Sci-Fi
+1210	Logan (2017)	Action|Sci-Fi
